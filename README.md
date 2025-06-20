@@ -1,7 +1,9 @@
 ### OOP in Java:
 
-- In these assignments, Main.java files are given. So that, only classes are written by me.
+These assingments are given in OOP in Java class, Maribor University. 
+In these assignments, Main.java files are given. So that, only classes are written by me.
 
+Assignment Topics:
 1. OOP basics: classes, constructors, getter and setters, methods.
 2. Reference “this”, class encapsulation, parametric polymorphism, toString method, constants, and tools of JDK.
 3. Inheritance, enums, super keyword, abstract keyword, arrays.
