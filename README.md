@@ -1,6 +1,7 @@
 ### OOP in Java:
 
-These assingments are given in OOP in Java class, Maribor University. 
+These assignments are given in OOP in Java course, Maribor University.
+
 In these assignments, Main.java files are given. So that, only classes are written by me.
 
 Assignment Topics:
